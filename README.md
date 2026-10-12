@@ -4,7 +4,7 @@ I'm **Smil**! I am a developer who's currently studying! Here's some things I al
 
 [![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,php,laravel,java,kotlin,docker,mongodb,mysql,redis)](https://skillicons.dev)
 
-* [ForgeJo repos](https://git.smilt.dev/smil?tab=repositories) - my own self-hosted ForgeJo instance (where you are currently at) with my up to date projects
+* [ForgeJo repos](https://git.smilt.dev/smil?tab=repositories) - my own self-hosted ForgeJo instance with my up to date projects
 * [Quack repos](https://git.smilt.dev/quack) - popular projects, remade under the Quack branding
 
 ## Contacts
