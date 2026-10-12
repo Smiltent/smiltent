@@ -1,4 +1,4 @@
-<img src="https://mcfont.com/view?scale=4&amp;i=%26gHey!%26r" alt="MCFont.com">
+<img src="https://mcfont.com/view?scale=4&amp;i=%26gHey!%26r" alt="MCFont.com"></img>  
 
 I'm **Smil**! I am a developer who's currently studying! Here's some things I already know:  
 
