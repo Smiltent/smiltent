@@ -1,5 +1,4 @@
 <img src="https://mcfont.com/view?scale=4&amp;i=%26gHey!%26r" alt="MCFont.com"></img>  
-
 I'm **Smil**! I am a developer who's currently studying! Here's some things I already know:  
 
 [![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,php,laravel,java,kotlin,docker,mongodb,mysql,redis)](https://skillicons.dev)
